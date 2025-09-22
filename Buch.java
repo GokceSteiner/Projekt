@@ -1,4 +1,4 @@
-public class Buch
+ public class Buch
 {
     private String verlag;
     private int seiten;
